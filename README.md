@@ -1,17 +1,5 @@
-# cw73rRud
+npm install
 
-Quick start:
+then,
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-```
-
-## Development
-
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
-
-```
-$ yarn watch # npm run watch
-
-```
+npm run dev
